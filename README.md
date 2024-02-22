@@ -5,8 +5,7 @@ This project is a simple and user-friendly YouTube audio downloader. It allows u
 You can download exutable program and run it easily or compile it by yourself.
 
 # Picture of program :
-![ALT program]([https://ibb.co/8xt6vY2](https://postimg.cc/sQq5LL5C))
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 # Key Features
 Download audio from YouTube videos.
 Select audio quality from available options.
