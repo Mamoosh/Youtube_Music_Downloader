@@ -5,7 +5,7 @@ This project is a simple and user-friendly YouTube audio downloader. It allows u
 You can download exutable program and run it easily or compile it by yourself.
 
 # Picture of program :
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/Mamoosh/Youtube_Music_Downloader/blob/main/youtube_downloader.PNG))
 # Key Features
 Download audio from YouTube videos.
 Select audio quality from available options.
